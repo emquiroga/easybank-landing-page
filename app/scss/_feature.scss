@@ -1,6 +1,6 @@
 .feature {
   background-color: $lightGrayishblue;
-  margin-bottom: 3.75rem;
+  /*margin-bottom: 3.75rem;*/ //Need to checkout this!
   text-align: center;
 
   @include breakpoint-up(medium) {
