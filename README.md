@@ -17,7 +17,7 @@ https://ibb.co/9G5Zgy1
 
 ### Links
 
-## My process
+https://emquiroga.github.io/easybank-landing-page/
 
 ### Built with
 
